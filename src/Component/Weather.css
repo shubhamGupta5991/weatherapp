@@ -1,0 +1,11 @@
+.weather-card{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid wheat;
+    
+}
+.weather-display{
+    display: flex;
+}

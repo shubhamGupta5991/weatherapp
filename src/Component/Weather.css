@@ -1,4 +1,4 @@
-.weather-cards{
+.weather-card{
     width: 200px;
     height: 200px;
     text-align: center;
@@ -8,4 +8,10 @@
 }
 .weather-display{
     display: flex;
+}
+
+.weather-cards{
+    display: flex;
+    width: 600px;
+    height: 150px;
 }
